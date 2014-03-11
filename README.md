@@ -4,10 +4,10 @@ google-presentation
 A presentation coded with impress.js about the google and the NSA program called PRISM
 
 
-WARNING:
+WARNING
+===================
 
-Chrome user
-==================
+Chrome user :
 
 If the presentation is not working with your Chrome 
 turn on "override software rendering list" option in "chrome://flags"
