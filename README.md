@@ -1,7 +1,7 @@
-google-presentation
+Google Prism presentation
 ===================
 
-A presentation coded with impress.js about the google and the NSA program called PRISM
+A presentation coded with impress.js about the relation between google and the NSA program called PRISM
 
 
 WARNING
