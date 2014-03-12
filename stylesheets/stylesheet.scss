@@ -108,3 +108,13 @@ ul {
         width: 50%;   
     }
 }
+
+#sources {
+    a {
+        font-size: 35px;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+}

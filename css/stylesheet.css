@@ -74,3 +74,9 @@ ul {
 
 #prism-fail img {
   width: 50%; }
+
+#sources a {
+  font-size: 35px;
+  text-decoration: none; }
+#sources a:hover {
+  text-decoration: underline; }
